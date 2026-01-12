@@ -39,5 +39,6 @@ print("program done")"""
 #print even numbers 0to10
 
 
-for num in range(0,10,2):
-    print(num)
+"""for num in range(0,10,2):
+    print(num)"""
+
